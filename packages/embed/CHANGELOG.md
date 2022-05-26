@@ -1,3 +1,24 @@
+# [@typeform/embed-v1.35.1](https://github.com/Typeform/embed/compare/@typeform/embed-v1.35.0...@typeform/embed-v1.35.1) (2022-04-21)
+
+
+### Bug Fixes
+
+* **TYP-6955:** Autoresize fullscreen popup on mobile ([91b436a](https://github.com/Typeform/embed/commit/91b436a5098d9ae0be62bd5643678b44ab36f766))
+
+# [@typeform/embed-v1.35.0](https://github.com/Typeform/embed/compare/@typeform/embed-v1.34.2...@typeform/embed-v1.35.0) (2022-04-13)
+
+
+### Features
+
+* **DIST-1571:** Allow setting iframe style directly as string ([06685f5](https://github.com/Typeform/embed/commit/06685f581b2c0fc135ac6aba0bd95679035e4e65))
+
+# [@typeform/embed-v1.34.2](https://github.com/Typeform/embed/compare/@typeform/embed-v1.34.1...@typeform/embed-v1.34.2) (2022-04-06)
+
+
+### Bug Fixes
+
+* **DIST-1554:** Autoprefix warning ([#492](https://github.com/Typeform/embed/issues/492)) ([1d3da57](https://github.com/Typeform/embed/commit/1d3da57df0379ece2fc3e4872e02a6d1afc59541))
+
 # [@typeform/embed-v1.34.1](https://github.com/Typeform/embed/compare/@typeform/embed-v1.34.0...@typeform/embed-v1.34.1) (2022-03-15)
 
 
